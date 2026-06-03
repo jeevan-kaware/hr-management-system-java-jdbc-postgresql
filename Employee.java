@@ -1,4 +1,4 @@
-package Project4;
+package com.jeevan.hrms;
 
 public class Employee {
     private int id;

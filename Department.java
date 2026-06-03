@@ -1,4 +1,4 @@
-package Project4;
+package com.jeevan.hrms;
 
 public class Department {
     private int id;

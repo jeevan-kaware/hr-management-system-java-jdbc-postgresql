@@ -1,4 +1,4 @@
-package Project4;
+package com.jeevan.hrms;
 
 import java.sql.*;
 import java.util.Scanner;

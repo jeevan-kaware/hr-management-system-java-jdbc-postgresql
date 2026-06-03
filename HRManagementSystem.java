@@ -58,6 +58,7 @@ public class HRManagementSystem {
                 default:
                     System.out.println("Invalid choice ");
             }
+            sc.close();
         }
     }
     public static void addDepartment(Scanner sc){
